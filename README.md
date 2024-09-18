@@ -7,9 +7,6 @@ A fun, command-line based number guessing game written in Python! The goal is to
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
 
 ## Overview
 
