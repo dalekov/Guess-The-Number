@@ -34,7 +34,7 @@ To play the game, follow these simple steps:
    ```bash
    cd guess-the-number
 
-3. Make sure you have Python installed on your machine. The game is compatible with Python 3.x. You can download it [here](https://www.python.org/downloads/)
+3. Make sure you have Python installed on your machine. The game is compatible with Python 3.x. You can download it [here](https://www.python.org/downloads/).
 
 4. Run the game:
    ```bash
