@@ -40,4 +40,4 @@ To play the game, follow these simple steps:
    ```bash
    python guess_the_number.py
 
-5. 
+5. Enjoy!
